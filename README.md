@@ -1,7 +1,6 @@
 # ddp_week4
 # Week 4 Project Developing Data Product
-author :: chinmoy149
-date :: December 31, 2017
+author :: chinmoy149<br>date :: December 31, 2017
 
 # Week 4 Project Document
 
