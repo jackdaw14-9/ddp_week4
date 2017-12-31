@@ -1,7 +1,7 @@
 # ddp_week4
 # Week 4 Project Developing Data Product
 author :: chinmoy149<br>date :: December 31, 2017<br>
-<a href = "https://jackdaw.shinyapps.io/test_1/" target = "_blank">link to project at shinyapps.io</a>
+<a href="https://jackdaw.shinyapps.io/test_1/" target="_blank">link to project at shinyapps.io</a>
 
 # Week 4 Project Document
 
